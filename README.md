@@ -1,29 +1,19 @@
-# README #
+# Tesser_fractal #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Some places where I found code... ##
 
-### What is this repository for? ###
+https://cycling74.com/projects/jitter-fractals/
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+[video-fractals- is largely based on [NAT's](https://cycling74.com/author/53508692746b61d82fffaa7a) 
+[patch](https://cycling74.com/projects/jitter-fractals/replies/1#reply-58ed1f2343f50b22d4ba8aaa).
+Here's a vide of him, [playing only with the theta param of jit.rota](https://www.youtube.com/watch?v=x6rFqyD-K78).
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+# ToDo #
+
+* Answer to Hanne
+* Come up with a smart concept/idea
