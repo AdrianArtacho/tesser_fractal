@@ -2,7 +2,7 @@
 	"name" : "Tesser_fractal",
 	"version" : 1,
 	"creationdate" : 3733215803,
-	"modificationdate" : 3733216202,
+	"modificationdate" : 3733488309,
 	"viewrect" : [ -335.0, 56.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -39,7 +39,7 @@
 	}
 ,
 	"detailsvisible" : 0,
-	"amxdtype" : 0,
+	"amxdtype" : 1835887981,
 	"readonly" : 0,
 	"devpathtype" : 0,
 	"devpath" : ".",
