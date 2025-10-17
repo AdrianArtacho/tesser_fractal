@@ -6,7 +6,7 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 This device does fractal **VIDEO** manipulation.
 
- ![TESS:fractal](https://docs.google.com/drawings/d/e/2PACX-1vR6dYdgO2MZJyyPmGKdl4Bqkp0tTer7rjGIQWBkCqka7ul598RET3Cce49ka0pi75XEcFsJUQ1s16dI/pub?w=309&h=229)
+ ![TESS:fractal](img/gui.png)
 
 ## Some places where I found code...
 
