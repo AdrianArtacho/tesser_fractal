@@ -1,14 +1,12 @@
-This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtacho/tesserakt/src/master/).
-
-![TTESS:Logo](https://github.com/AdrianArtacho/TesserAkt/blob/main/img/TESSER_logo.png)
-
 # Tesser_fractal
 
 This device does fractal **VIDEO** manipulation.
 
  ![TESS:fractal](img/gui.png)
 
-## Some places where I found code...
+---
+
+## credits
 
 https://cycling74.com/projects/jitter-fractals/
 
@@ -16,7 +14,7 @@ video-fractals- is largely based on [NAT's](https://cycling74.com/author/5350869
 
 ____
 
-# To-Do
+## To-Do
 
 * Document device
 * Come up with a smart concept/idea
